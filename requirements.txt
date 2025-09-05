@@ -1,3 +1,4 @@
 Django>=4.2
 pymongo>=4.0
 dnspython  # optional if you use mongodb+srv URI
+gunicorn
